@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kli-codes
+- 👀 I’m interested in FullStack Dev
+- 🌱 I’m currently learning Python Advanced
+- 📫 How to reach me Discord: kli#8376
